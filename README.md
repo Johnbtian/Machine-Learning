@@ -6,7 +6,6 @@ This repository contains machine learning tutorials and bonus tutorials on model
 
 - Compartmental models.ipynb
 - Dlack_scholes.ipynb
-- Dataissues.ipynb 
 - Machine learning Tutorials.ipynb
 - Moving_average_Time_series.ipynb 
 - Monte Carlo.ipynb
